@@ -1,0 +1,13 @@
+##### MIXTURE
+.githubsettings
+converted-html/
+
+##### SASS
+.sass-cache
+.sass-cache/
+
+##### OS
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
